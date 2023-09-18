@@ -63,14 +63,14 @@ footer .itensrodape a, footer .sociais{
 
 a:hover{
     opacity: 0.7;
-    transition: 0.3s;
-}
-a{
-    opacity: 1;
-    transition: 0.3s;
+    transition: 0.3;
 }
 
-.btnBlack{
+a{
+    opacity: 1;
+    transition: 0.3;
+}
+.btnblack{
     color: #FCFBFB;
     background-color: #1a1a1a;
     font-size: 30px;
@@ -82,41 +82,4 @@ a{
     text-align: center;
     padding: 100px 0;
 }
-.destaque {
-    width: 350px;
-    border-radius: 180px;
-    height: 350px;
-    overflow: hidden;
-    display: inline-block;
-    float: left;
-}
-.destaque img{
-    min-height: 100%;
-}
-.descricao {
-    display: inline-block;
-    width: 800px;
-    font-size: 22px;
-    padding: 20px;
-    margin-top: 40px;
-    text-align: justify;
-}
-.descricao h2 {
-    font-size: 40px;
-    text-align: center;
-    font-weight: 900;
-    margin-bottom: 20px;
 
-
-}
-.projeto1{
-    background-image: url('../img/casa.png');
-}
-
-.bg{
-    background-color: #1a1a1a;
-    display: flex;
-}
-.both{
-    clear: both;
-}
