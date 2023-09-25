@@ -187,3 +187,20 @@ a {
 .center{
     text-align: center;
 }
+.imagem{
+    float: left;
+    width: 40%;
+}
+.imagem img{
+    width: 100%;
+    margin-top: 40px;
+}
+.praca .descricao{
+    width: 56%;
+}
+.praca{
+    background-color: #1a1a1a;
+}
+.praca .titulo{
+    color: #fff;
+}
